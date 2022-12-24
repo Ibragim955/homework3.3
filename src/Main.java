@@ -15,7 +15,7 @@ public class Main {
 
         var workers = worker + 94;
         System.out.println(workers);
-        var time = 640 / 174;
+        var time = 174 * 8;
         System.out.println("Если в компании работает " + workers + " человек,то всего "  + time + " часов работы может быть поделено между сотрудниками");
 
     }

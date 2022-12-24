@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        var boxerOne = 72.8;
+        var boxerOne = 78.2;
         var boxerTwo = 82.7;
         var boxers = boxerOne + boxerTwo;
         System.out.println("Общий вес " + boxers + "кг! ");
